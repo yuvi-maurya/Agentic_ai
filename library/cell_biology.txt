@@ -1,0 +1,5 @@
+The cell is the basic structural and functional unit of all living organisms. Cells can be prokaryotic, like bacteria, which have no nucleus, or eukaryotic, like plant and animal cells, which have a true nucleus.
+
+The nucleus stores the cell's DNA and controls its activities. The mitochondria are known as the powerhouse of the cell because they produce most of the cell's energy in the form of ATP through cellular respiration.
+
+Plant cells have a rigid cell wall and chloroplasts, which animal cells do not have. Both plant and animal cells have a cell membrane that controls what enters and leaves the cell.

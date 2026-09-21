@@ -1,0 +1,5 @@
+Photosynthesis is the process by which green plants make their own food using sunlight. It takes place mainly in the leaves, inside tiny structures called chloroplasts.
+
+Chloroplasts contain a green pigment called chlorophyll, which absorbs light energy, mostly from the red and blue parts of sunlight. This energy is used to split water molecules into hydrogen and oxygen.
+
+The overall equation is: carbon dioxide + water + light energy gives glucose + oxygen. The glucose is used by the plant for energy and growth, and the oxygen is released into the air through small pores called stomata.
